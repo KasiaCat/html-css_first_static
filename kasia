@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css" />
+      <title>Projekt</title>
+  </head>
+    <body>
+      <div class="naglowek">
+        <h1><strong>K A S I A</strong></h1>
+      </div>
+      <div class="aboutme">
+        <h2>Cel to <strong>marzenie z data realizacji.</strong>
+          Z glowa pelna marzen, wciaz pracuje nad swoim szczesciem.
+          <strong>Nic nie jest niemozliwe.</strong></h2>
+      </div>
+      <div class="moi">
+        <ul>
+          <li><img src="kasia.jpg" alt="kasia"></li>
+        </ul>
+        <p>To Ja, Kasia. Ca va?</p>
+      </div>
+      <div class="pasje">
+        <h3>3 rzeczy....</h3>
+            <ul>
+              <li><img src="travel.jpg" alt="Podroze"></li>
+              <p><a href="https://www.youtube.com/watch?v=P22gcb4YHso"
+                target="_blank">
+              Podroze</a></p>
+              <li><img src="pc.jpg" alt="programowanie"></li>
+              <p><a href="https://www.codeschool.com/" target="_blank">
+                Programowanie</a></p>
+              <li><img src="coffee.jpg" alt="Kawa"></li>
+              <p><a href="https://www.youtube.com/watch?v=jbQdJ0BnSrU"
+                target="_blank"/>Kawa
+              </a></p>
+            </ul>
+      </div>
+      <div class="miejsca">
+        <h3>Miejsca, w ktorych moge sie gubic...</h3>
+        <ul>
+          <li><a target="_blank" href="http://www.parisinfo.com/">Paryz</a>
+          </li>
+          <li><a target="_blank" href="https://www.zuerich.com/fr/">
+            Zurich</a></li>
+          <li><a target="_blank" href="http://www.sorrentotourism.com/fr/">
+            Sorrento</a></li>
+          <li><a href="http://www.barcelona.com/barcelona_city_guide"
+             target="_blank">Barcelona</a></li>
+          <li><a target="_blank" href="http://www.versailles-tourisme.com/">
+            Versailles</a></li>
+          <li><a target="_blank" href="http://visitbrussels.be/">Bruksela</a>
+          </li>
+        </ul>
+      </div>
+      <div class="stopka">
+        <p>@Created by Katarzyna</p>
+      </div>
+
+    </body>
+
+</html>
